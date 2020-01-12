@@ -1,0 +1,9 @@
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\obj\Debug\Gubo Kalkulator LV6 Z1.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\obj\Debug\Gubo_Kalkulator_LV6_Z1.Form1.resources
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\obj\Debug\Gubo_Kalkulator_LV6_Z1.Properties.Resources.resources
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\obj\Debug\Gubo Kalkulator LV6 Z1.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\bin\Debug\Gubo Kalkulator LV6 Z1.exe.config
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\bin\Debug\Gubo Kalkulator LV6 Z1.exe
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\bin\Debug\Gubo Kalkulator LV6 Z1.pdb
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\obj\Debug\Gubo Kalkulator LV6 Z1.exe
+C:\Users\Dominik\source\repos\Gubo Kalkulator LV6 Z1\Gubo Kalkulator LV6 Z1\obj\Debug\Gubo Kalkulator LV6 Z1.pdb
